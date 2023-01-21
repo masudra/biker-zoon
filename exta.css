@@ -1,5 +1,7 @@
 .icon-bacground{
     background-color: rgba(182, 253, 161, 0.89);
-
-
+}
+.background-image{
+    background-image: url(images/bike-2.png);
+    height:600px ;
 }
